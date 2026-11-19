@@ -1,0 +1,8 @@
+{
+  "name": "HostelMate — Dehradun Hostel & PG Discovery",
+  "description": "Student-focused discovery and side-by-side comparison platform for hostels and PGs in Dehradun, Uttarakhand.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
